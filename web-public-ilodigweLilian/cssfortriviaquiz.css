@@ -1,0 +1,10 @@
+body {
+	background-image: url('file:///C:/Users/LILIAN/Desktop/cpt%20comp.%20science/images/vaporwavee.gif');
+	background-size: cover;
+    background-repeat: no-repeat;
+	}
+h1 {
+	font: "Times New Roman";
+    text-align: center;
+    text-shadow: 2px 2px #ff0000;
+    }
